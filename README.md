@@ -42,11 +42,5 @@ Contributions are welcome! If you want to contribute to the project, please foll
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
 
-## Acknowledgments
-
-We would like to acknowledge the following libraries and resources that were used in the development of this project:
-
-- [ExampleLibrary](https://examplelibrary.com): Used for XYZ functionality.
-- [AwesomeResource](https://awesomeresource.com): Provided valuable insights and inspiration.
 
 Thank you for visiting our repository! We hope you enjoy exploring the 3D website. If you have any feedback or suggestions, we'd love to hear from you. Happy browsing!
